@@ -1,0 +1,5 @@
+libvcol=ssh://hg@bitbucket.org/indigoparadox/libvcol
+libtwin=ssh://hg@bitbucket.org/indigoparadox/libtwin
+isekai=ssh://hg@bitbucket.org/indigoparadox/isekai
+camgraph=ssh://hg@bitbucket.org/indigoparadox/camgraph
+camin=ssh://hg@bitbucket.org/indigoparadox/camin
