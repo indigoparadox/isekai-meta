@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="camgraph/camgraph.cbp" />
+		<Project filename="camin/camin.cbp" />
+		<Project filename="libtwin/libtwin.cbp" />
+		<Project filename="libvcol/libvcol.cbp" />
+		<Project filename="isekai/isekai.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
