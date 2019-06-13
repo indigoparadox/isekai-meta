@@ -6,5 +6,6 @@
 		<Project filename="libtwin/libtwin.cbp" />
 		<Project filename="libvcol/libvcol.cbp" />
 		<Project filename="isekai/isekai.cbp" />
+		<Project filename="hs/heatshrink.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
