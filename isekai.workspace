@@ -7,5 +7,7 @@
 		<Project filename="libvcol/libvcol.cbp" />
 		<Project filename="isekai/isekai.cbp" />
 		<Project filename="hs/heatshrink.cbp" />
+		<Project filename="mfat/src/mfat.cbp" />
+		<Project filename="chiipy/src/chiipy.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
