@@ -1,0 +1,21 @@
+[submodule "libvcol"]
+	path = libvcol
+	url = ssh://git@github.com/indigoparadox/libvcol
+[submodule "libtwin"]
+	path = libtwin
+	url = ssh://git@github.com/indigoparadox/libtwin
+[submodule "isekai"]
+	path = isekai
+	url = ssh://git@github.com/indigoparadox/isekai
+[submodule "camgraph"]
+	path = camgraph
+	url = ssh://git@github.com/indigoparadox/camgraph
+[submodule "camin"]
+	path = camin
+	url = ssh://git@github.com/indigoparadox/camin
+[submodule "mfat"]
+	path = mfat
+	url = ssh://git@github.com/indigoparadox/mfat
+[submodule "chiipy"]
+	path = chiipy
+	url = ssh://git@github.com/indigoparadox/chiipy
