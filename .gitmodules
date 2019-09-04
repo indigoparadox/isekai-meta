@@ -19,3 +19,9 @@
 [submodule "chiipy"]
 	path = chiipy
 	url = ssh://git@github.com/indigoparadox/chiipy
+[submodule "heatshrink"]
+	path = heatshrink
+	url = https://github.com/indigoparadox/heatshrink
+[submodule "duktape"]
+	path = duktape
+	url = https://github.com/indigoparadox/duktape
