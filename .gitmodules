@@ -1,24 +1,24 @@
 [submodule "libvcol"]
 	path = libvcol
-	url = ssh://git@github.com/indigoparadox/libvcol
+	url = https://github.com/indigoparadox/libvcol
 [submodule "libtwin"]
 	path = libtwin
-	url = ssh://git@github.com/indigoparadox/libtwin
+	url = https://github.com/indigoparadox/libtwin
 [submodule "isekai"]
 	path = isekai
-	url = ssh://git@github.com/indigoparadox/isekai
+	url = https://github.com/indigoparadox/isekai
 [submodule "camgraph"]
 	path = camgraph
-	url = ssh://git@github.com/indigoparadox/camgraph
+	url = https://github.com/indigoparadox/camgraph
 [submodule "camin"]
 	path = camin
-	url = ssh://git@github.com/indigoparadox/camin
+	url = https://github.com/indigoparadox/camin
 [submodule "mfat"]
 	path = mfat
-	url = ssh://git@github.com/indigoparadox/mfat
+	url = https://github.com/indigoparadox/mfat
 [submodule "chiipy"]
 	path = chiipy
-	url = ssh://git@github.com/indigoparadox/chiipy
+	url = https://github.com/indigoparadox/chiipy
 [submodule "heatshrink"]
 	path = heatshrink
 	url = https://github.com/indigoparadox/heatshrink
